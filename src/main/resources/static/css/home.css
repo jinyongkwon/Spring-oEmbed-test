@@ -1,0 +1,68 @@
+.my_input_out_box {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 3px;
+  }
+
+  .my_input_box {
+    margin-top: 15px;
+    background-color: white;
+    width: 500px;
+    height: 50px;
+    padding: 10px;
+    display: flex;
+    outline: 1px solid blue;
+    border-radius: 5px;
+  }
+
+  .my_input_logo {
+    width: 10%;
+    height: 100%;
+    color: #C4C0BA;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .my_input_text_box {
+    width: 70%;
+    height: 100%;
+  }
+
+  .my_input_text {
+    width: 100%;
+    border: none;
+  }
+
+  .my_input_text:focus {
+    outline: none;
+  }
+
+  .my_input_btn_box {
+    width: 20%;
+    height: 100%;
+  }
+
+  .my_input_btn {
+    width: 80%;
+    height: 100%;
+    background-color: #FFCD45;
+    border: none;
+    font-weight: 600;
+  }
+
+  .my_table_box{
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding-top: 10px;
+  }
+
+  .my_body{
+    padding-top: 20px;
+    height: 80vh;
+    background-color: #F2F2F2;
+  }
